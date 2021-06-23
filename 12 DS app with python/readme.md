@@ -6,8 +6,8 @@ For our app, we are usting streamlit module for creating web based application
 language: python
 
 So make sure to install streamlit
-```diff
-+pip install streamlit
+```bash
+>> pip install streamlit
 ```
 to run code
 ```bash
