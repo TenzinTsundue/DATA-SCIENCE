@@ -18,3 +18,9 @@ What data professionals do:
 *Data science*: The discipline of making data useful
 * Produces broad insights that concentrate on which questions should be asked about data
 * Confronts what is unknown by using advanced techniques to make predictions about the future.
+
+
+### Week 2: The Impact of data today
+
+1. Technical data professionals
+2. Strategic data professionals 
