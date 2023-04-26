@@ -24,3 +24,11 @@ What data professionals do:
 
 1. Technical data professionals
 2. Strategic data professionals 
+
+PII: Personal Identifiable Information <br>
+Need to protect privacy within data and remain aware of other considerations, like data bias and making assumptions about data.<br>
+
+*Data anonymization*: Is the process of protecting people’s private or sensitive data by elimination PII. Typically, it involves blanking, hashing, or masking personal information. Often by using fixed-length codes to represent data columns, or hiding data with altered values.
+
+### Week 3: Your career as a data professional
+
