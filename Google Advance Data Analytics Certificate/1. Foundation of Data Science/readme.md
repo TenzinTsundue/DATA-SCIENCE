@@ -1,6 +1,6 @@
 Week 1: Introduction to data science concepts ✅<br>
 Week 2: The impact of data today✅<br>
-Week 3: Your career as a data professional<br>
+Week 3: Your career as a data professional✅<br>
 Week 4: Data applications and workflow<br>
 Week 5: Course 1 end-of-course project<br>
 <br>
@@ -31,4 +31,27 @@ Need to protect privacy within data and remain aware of other considerations, li
 *Data anonymization*: Is the process of protecting people’s private or sensitive data by elimination PII. Typically, it involves blanking, hashing, or masking personal information. Often by using fixed-length codes to represent data columns, or hiding data with altered values.
 
 ### Week 3: Your career as a data professional
+
+Data professionals combine a knowledge about how to do practical tasks with an awareness of what makes communication and collaboration successful.<br>
+
+Data career skills:
+* Interpersonal skills
+* Active listening
+* Being coachable
+* A passion for data analysis
+* Lifelong learning
+* Strong interpersonal skills
+* Communication
+* Problem solver
+
+What data professionals do:<br>
+Data tasks and responsibilities are dependent on an organization’s data, team structure, and how they make use of insights and analytics.<br>
+Data team building:
+* Adaptability
+* Activation
+* Standardization
+* Accountability
+* Business impact
+
+RACI matrix: Responsible, Accountable, Consulted, Informed
 
