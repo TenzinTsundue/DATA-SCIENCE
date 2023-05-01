@@ -55,3 +55,6 @@ Data team building:
 
 RACI matrix: Responsible, Accountable, Consulted, Informed
 
+### Week 4: Data applications and workflow
+
+
