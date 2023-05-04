@@ -57,4 +57,6 @@ RACI matrix: Responsible, Accountable, Consulted, Informed
 
 ### Week 4: Data applications and workflow
 
-
+The data project workflow
+Elements of communication
+Communication like a data professional
