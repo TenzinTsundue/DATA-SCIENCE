@@ -58,5 +58,12 @@ RACI matrix: Responsible, Accountable, Consulted, Informed
 ### Week 4: Data applications and workflow
 
 The data project workflow
+
+* *PACE framework*: Plan -> Analyze -> Construct -> Execute
+* Plan: The planning stage is here you conceptualize the scope of the project and develop the steps that will guide you through the process of completing a project.
+* Analyze: The analyzing stage is where you will collect, prepare, and analyze all of the data for your project.
+* Construct: In the construction stage you will build models that will allow you access to hidden relationships locked within data.
+*  Execute: In the execution stage you will present the finding of your analysis, receive feedback, and make revisions as necessary.
+
 Elements of communication
 Communication like a data professional
