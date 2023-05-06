@@ -66,4 +66,15 @@ The data project workflow
 *  Execute: In the execution stage you will present the finding of your analysis, receive feedback, and make revisions as necessary.
 
 Elements of communication
+Elements of communication
+* The Purpose 
+* The Sender
+* The receiver
+Tips for effective communication
+1. Speak the language of your audience
+2. Invite questions and welcome feedback
+3. Be the connection to the data
+4. Let your visualization help tell the story
+5. Build positive professional relationships
+
 Communication like a data professional
