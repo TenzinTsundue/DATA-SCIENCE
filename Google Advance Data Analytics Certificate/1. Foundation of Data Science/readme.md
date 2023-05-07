@@ -1,7 +1,7 @@
 Week 1: Introduction to data science concepts ✅<br>
 Week 2: The impact of data today✅<br>
 Week 3: Your career as a data professional✅ <br>
-Week 4: Data applications and workflow<br>
+Week 4: Data applications and workflow✅<br>
 Week 5: Course 1 end-of-course project<br>
 <br>
 
@@ -77,4 +77,14 @@ Tips for effective communication
 4. Let your visualization help tell the story
 5. Build positive professional relationships
 
-Communication like a data professional
+Tips for clear communication:
+* Use proper grammar and punctuation
+* Choose specific terms
+* Avoid technical language
+* Break complex ideas into shorter sentences
+
+Communication like a data professional<br>
+
+A project proposal is a plan of action, describing what needs to be accomplished and how to achieve your intense goals and outcomes.<br>
+
+Executive summaries are important ways to share information with decision makers, clients, and executives. This documents include a summarized version of the most important information within a project or plan of action.<br>
