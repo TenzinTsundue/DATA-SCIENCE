@@ -38,3 +38,15 @@ Week 5: Course 2 end of course project <br>
 *Syntax*: The structure of code words, symbols, placement, and punctuation<br>
 *Variable*: A named container which stores values in a reserved location in the computer’s memory<br>
 
+Week 2: Functions and conditional statements
+* Functions
+* Write clean code
+* Commenting
+* Operators
+* conditional statements
+
+[Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/get-started-with-python/ungradedLab/qxjEj/annotated-follow-along-guide-functions-and-conditional-statements/lab?path=%2Fnotebooks%2FAnnotated%2520follow-along%2520guide_%2520Functions%2520and%2520conditional%2520statements.ipynb)
+
+Functions: A body of reusable code for performing specific processes or tasks
+* code reusability
+* Functions and methods are very similar, but there are a few key differences. Methods are a specific type of function. They are functions that belong to a class. This means that you can use them—or “call” them—by using dot notation. 
