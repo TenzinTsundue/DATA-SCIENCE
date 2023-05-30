@@ -76,3 +76,26 @@ Functions: A body of reusable code for performing specific processes or tasks
 *return*: A reserved keyword in Python that makes a function produce new results which are saved for later use <br>
 *Reusability*: The capability to define code once and using it many times without having to rewrite it <br>
 *Self-documenting code*: Code written in a way that is readable and makes its purpose clear <br>
+
+Week 3: Loops and strings
+
+[Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/get-started-with-python/ungradedLab/1r1mX/annotated-follow-along-guide-loops-and-strings/lab?path=%2Fnotebooks%2FAnnotated%2520follow-along%2520guide_%2520Loops%2520and%2520strings.ipynb)
+
+* F-string
+* Float formatting options
+
+[Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/get-started-with-python/supplement/65hYg/string-formatting-and-regular-expressions)
+
+*break:* A keyword that lets a user escape a loop without triggering any ELSE statement that follows it in the loop <br>
+*Concatenate*: To link or join together <br>
+*Escape character*: A character that changes the typical behavior of the characters that follow it<br>
+*For loop*: A piece of code that iterates over a sequence of values <br>
+*format()*: A string method that formats and inserts specific substrings into designated places within a larger string <br>
+*index()*: A string method that outputs the index number of a character in a string <br>
+*Indexing*: A way to refer to the individual items within an iterable by their relative position <br>
+*Iterable*: An object that’s looped, or iterated, over <br>
+*Iteration*: The repeated execution of a set of statements, where one iteration is the single execution of a block of code <br>
+*Loop*: A block of code used to carry out iterations  <br>
+*range()*: A Python function that returns a sequence of numbers starting from zero, increments by 1 by default, and stops before the given number  <br>
+*String slice*: A portion of a string that can contain more than one character; also referred to as a substring  <br>
+*While* *loop*: A loop that instructs the computer to continuously execute the code based on the value of a condition <br>
