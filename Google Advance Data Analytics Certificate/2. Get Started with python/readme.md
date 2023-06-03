@@ -99,3 +99,14 @@ Week 3: Loops and strings
 *range()*: A Python function that returns a sequence of numbers starting from zero, increments by 1 by default, and stops before the given number  <br>
 *String slice*: A portion of a string that can contain more than one character; also referred to as a substring  <br>
 *While* *loop*: A loop that instructs the computer to continuously execute the code based on the value of a condition <br>
+
+Week 4: Data structures in Python
+[Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/get-started-with-python/ungradedLab/T6uuj/annotated-follow-along-guide-data-structures-in-python/lab?path=%2Fnotebooks%2FAnnotated%2520follow-along%2520guide_%2520Data%2520structures%2520in%2520Python.ipynb%235)
+
+Data structures: Collections of data values or objects that contain different data types.
+ * Lists: A data structure that helps store and manipulate an ordered collection of items. []
+ * Tuples:  An immutable sequence that can contain elements of any data type ()
+	 * function return multiple values return them in tuple
+ * Dictionaries: A data structure that consists of a collection of key-value pairs {}
+ * Sets:  A data structure in python that contains only unordered, non-interchangeable unique elements.  set()
+ 
