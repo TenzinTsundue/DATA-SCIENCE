@@ -183,3 +183,8 @@ Pandas: A powerful library built on top of NumPy that’s used to manipulate and
 *values()*: A dictionary method to retrieve only the dictionary’s values
 *Vectorization*: A process that enables operations to be performed on multiple components of a data object at the same time
 
+Week 5: Course 2 end of course project<br>
+
+
+
+
