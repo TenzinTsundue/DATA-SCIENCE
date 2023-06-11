@@ -185,6 +185,17 @@ Pandas: A powerful library built on top of NumPy that’s used to manipulate and
 
 Week 5: Course 2 end of course project<br>
 
+Automatidata <br>
+Activity: [Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/get-started-with-python/ungradedLab/FrE1A/activity-course-2-automatidata-project-lab/lab?path=%2Fnotebooks%2FActivity_Course%25202%2520Automatidata%2520project%2520lab.ipynb) <br>
+Exemplar: [Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/get-started-with-python/ungradedLab/fvJDh/exemplar-course-2-automatidata-project-lab/lab?path=%2Fnotebooks%2FActivity%2520Exemplar_%2520Course%25202%2520Python%2520Notebook.ipynb) <br>
+
+TikTok <br>
+Activity: [Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/get-started-with-python/ungradedLab/emRkC/activity-course-2-tiktok-project-lab/lab?path=%2Fnotebooks%2FActivity_Course%25202%2520TikTok%2520project%2520lab.ipynb) <br>
+Exemplar: [Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/get-started-with-python/ungradedLab/MEiVL/exemplar-course-2-tiktok-project-lab/lab?path=%2Fnotebooks%2FExemplar_Course%25202%2520TikTok%2520project%2520lab.ipynb) <br>
+
+Waze  <br>
+Activity: [Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/get-started-with-python/ungradedLab/RTLD1/activity-course-2-waze-project-lab/lab?path=%2Fnotebooks%2FActivity_Course%25202%2520Waze%2520project%2520lab.ipynb) <br>
+Exemplar: [Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/get-started-with-python/ungradedLab/IMizQ/exemplar-course-2-waze-project-lab/lab?path=%2Fnotebooks%2FExemplar_Course%25202%2520Waze%2520project%2520lab.ipynb) <br>
 
 
 
