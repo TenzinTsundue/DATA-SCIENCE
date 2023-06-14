@@ -8,3 +8,5 @@ Week 5: end-of-course project <br>
 
 ### Week 1: Find and share stories using data <br>
 
+EDA
+PACE
