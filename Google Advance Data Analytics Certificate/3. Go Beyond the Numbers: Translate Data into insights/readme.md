@@ -33,4 +33,12 @@ Reference guide: The EDA process[Coursera | Online Courses & Credentials From To
 *Structuring*: The process of taking raw data and organizing or transforming it to be more easily visualized, explained, or modeled; one of the six practices of EDA <br>
 *Validating*: The process of verifying that the data is consistent and high quality; one of the six practices of EDA <br>	
 
+Week 2: Explore raw data <br>
 
+First-party data is data that was gathered from inside your own organization.  <br>
+Second-party data was gathered outside your organization but directly from the original source.  <br>
+Third-party data, which is data gathered outside your organization and aggregated. <br>
+
+head(), info(), describe() and shape <br>
+
+Hypothesis: A theory or an explanation, based on evidence, that is not yet proved true.
