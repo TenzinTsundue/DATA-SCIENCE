@@ -41,4 +41,17 @@ Third-party data, which is data gathered outside your organization and aggregate
 
 head(), info(), describe() and shape <br>
 
-Hypothesis: A theory or an explanation, based on evidence, that is not yet proved true.
+Hypothesis: A theory or an explanation, based on evidence, that is not yet proved true. <be>
+
+Sorting | Extracting | Filtering | Slicing | Grouping | Merging  <br>
+
+```
+df.merge()
+pd.concat()
+df.join()
+df.select_dtypes
+df[condition]
+pd.sort_values()
+df.iloc[]
+df.loc[]
+```
