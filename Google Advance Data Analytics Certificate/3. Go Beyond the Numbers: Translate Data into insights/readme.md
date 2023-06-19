@@ -55,3 +55,6 @@ pd.sort_values()
 df.iloc[]
 df.loc[]
 ```
+EDA structuring with Python [Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight/ungradedLab/WMxxI/annotated-follow-along-guide-eda-structuring-with-python/lab?path=%2Fnotebooks%2FAnnotated%2520follow-along%2520guide_%2520EDA%2520structuring%2520with%2520Python.ipynb) <br>
+
+Histograms: Symmetric | Skewed | Bimodal | Uniform <br>
