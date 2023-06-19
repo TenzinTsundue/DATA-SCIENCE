@@ -1,7 +1,7 @@
 
 # Go Beyond the Numbers: Translate Data into insights
 Week 1: Find and share stories using data ✅ <br>
-Week 2: Explore raw data <br>
+Week 2: Explore raw data ✅<br>
 Week 3: Clean your data <br>
 Week 4: Data visualization and presentations <br>
 Week 5: end-of-course project <br>
@@ -62,3 +62,22 @@ Histograms: Symmetric | Skewed | Bimodal | Uniform <br>
 Activity: [Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight/ungradedLab/gr3qN/activity-structure-your-data/lab?path=%2Fnotebooks%2FActivity_Structure%2520your%2520data.ipynb) <br>
 
 Exemplar: [Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight/ungradedLab/A0hlQ/exemplar-structure-your-data/lab?path=%2Fnotebooks%2FExemplar_Structure%2520your%2520data.ipynb) <br>
+
+*Box plot:*A data visualization that depicts the locality, spread, and skew of groups of values within quartiles <br>
+*CSV file*: A simple text file that can be easy to import or store in other softwares, platforms, and databases <br>
+*Database (DB) file*: A file type used to store data, often in tables, indexes, or fields <br>
+*Data source:* The location where data originates <br>
+*Extracting:* The process of retrieving data out of data sources for further data processing or storage <br>
+*Filtering:* The process of selecting a smaller part of a dataset based on specified values and using it for viewing or analysis <br>
+*First-party data:* Data that was gathered from inside your own organization <br>
+*Grouping*: The process of aggregating individual observations of a variable into groups <br>
+*Hypothesis:* A theory or an explanation, based on evidence, that is not yet proven true <br>
+*Info():* Gives the total number of entries, along with the data types—called Dtypes in pandas—of the individual entries <br>
+*Int64:* A standard integer data type, representing numbers somewhere between negative nine quintillion and positive nine quintillion <br>
+*JSON file:*A data storage file that is saved in a JavaScript format <br>
+*Merging:* A method to combine two (or more) different data frames along a specified starting column(s) <br>
+*Second-party data:* Data that was gathered outside your organization but directly from the original source <br>
+*Slicing:*A method for breaking information down into smaller parts to facilitate efficient examination and analysis from different viewpoints <br>
+*Sorting:*The process of arranging data into a meaningful order for analysis <br>
+*String:* A sequence of characters and punctuation that contains textual information <br>
+*Third-party data:*Data gathered outside your organization and aggregated <br>
