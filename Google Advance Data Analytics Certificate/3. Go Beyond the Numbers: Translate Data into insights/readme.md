@@ -83,3 +83,29 @@ Exemplar: [Coursera | Online Courses & Credentials From Top Educators. Join for 
 *Third-party data:*Data gathered outside your organization and aggregated <br>
 
 ### Week 3: Clean your data  <br>
+
+The 6 Practices of EDA
+1. Discovering
+2. Structuring
+3. Cleaning
+4. Joining
+5. Validating
+6. Presenting
+
+Missing data (or null values): A value that is not stored for a variable in a set of data. <br>
+
+A zero (0) could be considered a missing value, but in other datasets could be legitimate data point. <br>
+
+What to do with missing data <br>
+* Request the missing values to b filled in by the owner of the data
+* Delete the missing columns(s), row(s), or value(s)
+* Create a NaN category
+* Derive new representative values(s)
+
+Derive new representative value(s) strategy
+* Forward filling
+* Backward filling (backfilling)
+* Deriving mean values
+* Deriving median values
+
+  
