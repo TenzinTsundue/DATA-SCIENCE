@@ -107,5 +107,13 @@ Derive new representative value(s) strategy
 * Backward filling (backfilling)
 * Deriving mean values
 * Deriving median values
+* 
+Working with missing data [Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight/ungradedLab/E5TwS/annotated-follow-along-guide-work-with-missing-data-in-a-python-notebook/lab?path=%2Fnotebooks%2FAnnotated%2520follow-along%2520guide_%2520Dealing%2520with%2520missing%2520data%2520in%2520Python.ipynb)<br>
+
+Activity_Address missing data [Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight/ungradedLab/u5Md6/activity-address-missing-data/lab?path=%2Fnotebooks%2FActivity_Address%2520missing%2520data.ipynb)<br>
+
+Exemplar_Address missing data [Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight/ungradedLab/PLNHD/exemplar-address-missing-data/lab?path=%2Fnotebooks%2FExemplar_Address%2520missing%2520data.ipynb) <br>
+
+
 
   
