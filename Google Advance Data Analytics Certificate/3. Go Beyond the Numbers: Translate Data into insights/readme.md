@@ -114,6 +114,27 @@ Activity_Address missing data [Coursera | Online Courses & Credentials From Top 
 
 Exemplar_Address missing data [Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight/ungradedLab/PLNHD/exemplar-address-missing-data/lab?path=%2Fnotebooks%2FExemplar_Address%2520missing%2520data.ipynb) <br>
 
+Account for outliers <br>
+
+Outliers: Observations that are an abnormal distance from other values or an overall pattern in a data population.
+
+3 Types of outliers:
+* Global outliers: Values that are completely different form the overall data group and have no association with any other outliers
+* Contextual outliers: Normal data points under certain conditions but become anomalies under most other conditions.
+* Collective outliers: A group of abnormal points that follow similar patterns and are isolated from the rest of the population
+
+Documentation string or Docstring: A line of text following a method or function that is used to others, using your code, what this method or function does. A doctoring represents good documentation practice in Python. <br>
+
+```
+def fun():
+    """ Docstring """
+```
+
+How to handle outliers:
+* Delete them: If you are sure the outliers are mistakes, typos, or errors
+* Reassign them: If the dataset is small, you can choose a path of deriving new values to replace the outlier values
+* Leave them: For a dataset that you plan to do EDA/analysis on and nothing else, or for a dataset you are preparing for a model hat is resistant to outliers, it is most likely that you are going to leave them in.
+[Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight/supplement/vmpy6/reference-guide-how-to-handle-outliers) <br>
 
 
   
