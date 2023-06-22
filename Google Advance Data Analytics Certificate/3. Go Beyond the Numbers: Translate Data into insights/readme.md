@@ -136,5 +136,13 @@ How to handle outliers:
 * Leave them: For a dataset that you plan to do EDA/analysis on and nothing else, or for a dataset you are preparing for a model hat is resistant to outliers, it is most likely that you are going to leave them in.
 [Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight/supplement/vmpy6/reference-guide-how-to-handle-outliers) <br>
 
+Label encoding is a data transformation technique where each category is assigned a unique number instead of a qualitative value [series.cat.codes]<br>
+
+Dummy variables: Variables with values of 0 or 1, which indicate the presence or absence of something [pd.get_dummies()] . This creation of dummies is called one-hot encoding<br>
+
+* Label encoding is best for large numbers of different categorical variables and for categories that have an inherent order to them. 
+* One-hot encoding is best for smaller amounts of categorical variables and for categories that have no order. 
+
+Heatmap: A typeof data Visualization that depicts the magnitude of an instance or set of values based on two colours <br>
 
   
