@@ -143,6 +143,6 @@ Dummy variables: Variables with values of 0 or 1, which indicate the presence or
 * Label encoding is best for large numbers of different categorical variables and for categories that have an inherent order to them. 
 * One-hot encoding is best for smaller amounts of categorical variables and for categories that have no order. 
 
-Heatmap: A typeof data Visualization that depicts the magnitude of an instance or set of values based on two colours <br>
+*Heatmap*: A typeof data Visualization that depicts the magnitude of an instance or set of values based on two colours <br>
 
   
